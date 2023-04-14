@@ -1,0 +1,18 @@
+apiVersion: core.napptive.com/v1alpha1
+kind: ApplicationMetadata
+name: "Jenkins"
+version: 2.387.2
+description: "Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software."
+keywords:
+  - "CI-CD"
+  - "jenkins"
+  - "ci-cd" 
+  - "pipeline"
+  - "ci/cd"
+license: "MIT License"
+url: "https://www.jenkins.io/"
+doc: "https://www.jenkins.io/doc/"
+logo:
+  - src: "https://sg.mirror.servanamanaged.com/jenkins/art/jenkins-logo/1024x1024/logo.png"
+    type: "image/png"
+    size: "75x87"
