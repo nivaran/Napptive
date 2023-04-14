@@ -5,7 +5,7 @@
 ## References
 * https://www.jenkins.io/
 
-After deploy nginx, ask for application info to know its endpoint executing:
+After deploy Jenkins, ask for application info to know its endpoint executing:
 
 ```
 $ playground apps info jenkins
